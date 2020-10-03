@@ -99,7 +99,7 @@ validateViridis <- function(string){
 
 #' Create correally correlation plot
 #'
-#' This function creates an interactive visualization of a correlation matrix. It is based on the R implementation of \href{http://rstudio.com}{plotly.js},
+#' This function creates an interactive visualization of a correlation matrix. It is based on the R implementation of \href{https://plotly.com/javascript/}{plotly.js},
 #' an (MIT licensed) web-based interactive charting library. It provides a clean implementation for plotting correlation matrices, easy use of different
 #' color schemes (Base R colors, Hex colors, [RColorBrewer] palettes as well as support for [viridisLite]). It also provides coloring options for backgrounds, grids and fonts
 #' matching different [shinythemes].

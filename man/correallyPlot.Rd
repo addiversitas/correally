@@ -39,7 +39,7 @@ gridline color, colorbar framing and font color. Defaults to the "default" theme
 Returns a plotly object.
 }
 \description{
-This function creates an interactive visualization of a correlation matrix. It is based on the R implementation of \href{http://rstudio.com}{plotly.js},
+This function creates an interactive visualization of a correlation matrix. It is based on the R implementation of \href{https://plotly.com/javascript/}{plotly.js},
 an (MIT licensed) web-based interactive charting library. It provides a clean implementation for plotting correlation matrices, easy use of different
 color schemes (Base R colors, Hex colors, \link{RColorBrewer} palettes as well as support for \link{viridisLite}). It also provides coloring options for backgrounds, grids and fonts
 matching different \link{shinythemes}.
